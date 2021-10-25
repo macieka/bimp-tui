@@ -1,0 +1,19 @@
+[[source]]
+
+verify_ssl = true
+url = "https://pypi.python.org/simple"
+name = "pypi"
+
+
+[packages]
+
+textual = "*"
+
+
+[dev-packages]
+
+
+
+[requires]
+
+python_version = "3.9"
